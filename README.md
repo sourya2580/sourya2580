@@ -6,9 +6,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=sourya2580&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itz_me_Grok)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souryakumar1234567890@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourya2580)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sourya2580)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourya2580@users.noreply.github.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sourya2580)
 
 </div>
@@ -21,11 +21,13 @@
 
 I'm a **Full-Stack Developer** who loves turning ideas into fast, real-world products. I work across the stack — from pixel-perfect **React** frontends to robust **Node.js** backends and smart **Python** automation.
 
-- 🔭 Currently building **production-grade web apps**
-- 🌱 Currently learning **Advanced React patterns & System Design**
-- 💬 Ask me about **React, Node.js, Python, or Telegram Bots**
-- ⚡ Fun fact: **I shipped live projects for real users on Telegram before my first job** 🚀
-- 🎯 Goal: **Join a team where I can grow fast and build things that matter**
+- 🔭 Currently building **market analysers, automation tools & APIs**
+- 🌱 Currently learning **Advanced React, System Design & AI/ML**
+- 💬 Ask me about **React, Node.js, Python, APIs, or Automation**
+- 🤝 Connect on Telegram: **[@itz_me_Grok](https://t.me/itz_me_Grok)**
+- 📩 Email me: **souryakumar1234567890@gmail.com**
+- ⚡ Fun fact: **I shipped live projects for real users before my first job** 🚀
+- 🎯 Always a **learner** — exploring something new every single day
 
 ---
 
@@ -52,6 +54,57 @@ I'm a **Full-Stack Developer** who loves turning ideas into fast, real-world pro
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Trade Predictor & Market Analyser
+> Web app that analyses market trends and helps predict trades.
+> **Stack:** React · Node.js · Python · Charts
+
+### 🙂 Face Recognition Authentication
+> Biometric login system using face recognition for secure, passwordless auth.
+> **Stack:** Python · OpenCV · dlib · Flask
+
+### 📄 Resume Analyser
+> Upload a resume and get an instant AI-powered score, strengths & improvement tips.
+> **Stack:** Python · NLP · FastAPI · React
+
+### 🎮 Gaming Web
+> A fun browser-gamedeck — arcade-style games you can play instantly, no install.
+> **Stack:** HTML · CSS · JavaScript
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 WhatsApp Business Automation
+> Automates business chats — auto-replies, bulk messaging & message routing.
+> **Stack:** Python · WhatsApp Business API
+
+### 🎙️ Real-Time Voice Analyser
+> Live audio processing — pitch, tone & sentiment analysis in real time.
+> **Stack:** Python · WebAudio · NumPy
+
+### 🔌 API Development
+> Clean, documented REST APIs powering the projects above.
+> **Stack:** Node.js · Express · Python · FastAPI
+
+### 📱 Sketchware Projects
+> Native Android apps built from scratch in Sketchware.
+> **Stack:** Java · XML · Android
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -115,6 +168,10 @@ I'm a **Full-Stack Developer** who loves turning ideas into fast, real-world pro
 
 **💼 Open to Full-Stack / Backend / Python roles**
 **📩 Drop me a message — I'd love to build something together!**
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itz_me_Grok)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souryakumar1234567890@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourya2580)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:a371f7&height=120&section=footer" alt="Wave" />
 
