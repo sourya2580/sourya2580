@@ -67,36 +67,36 @@ I'm a **Full-Stack Developer** who loves turning ideas into fast, real-world pro
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Trade Predictor & Market Analyser
-> Web app that analyses market trends and helps predict trades.
+### 📈 [Trade Predictor & Market Analyser](https://github.com/sourya2580/trade-predictor-market-analyser)
+> Web app that analyses market trends and helps predict trades. **[Live 🌐](https://elitexgrok.xyz/UyM6QFZz)**
 > **Stack:** React · Node.js · Python · Charts
 
-### 🙂 Face Recognition Authentication
+### 🙂 [Face Recognition Authentication](https://github.com/sourya2580/face-recognition-authentication)
 > Biometric login system using face recognition for secure, passwordless auth.
 > **Stack:** Python · OpenCV · dlib · Flask
 
-### 📄 Resume Analyser
+### 📄 [Resume Analyser](https://github.com/sourya2580/resume-analyser)
 > Upload a resume and get an instant AI-powered score, strengths & improvement tips.
 > **Stack:** Python · NLP · FastAPI · React
 
-### 🎮 Gaming Web
+### 🎮 [Gaming Web Platform](https://github.com/sourya2580/gaming-web-platform)
 > A fun browser-gamedeck — arcade-style games you can play instantly, no install.
-> **Stack:** HTML · CSS · JavaScript
+> **Stack:** React · Next.js · HTML · CSS
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 WhatsApp Business Automation
+### 🤖 [WhatsApp Business Automation](https://github.com/sourya2580/whatsapp-business-automation)
 > Automates business chats — auto-replies, bulk messaging & message routing.
-> **Stack:** Python · WhatsApp Business API
+> **Stack:** Node.js · Express · WhatsApp Business API
 
-### 🎙️ Real-Time Voice Analyser
+### 🎙️ [Real-Time Voice Analyser](https://github.com/sourya2580/real-time-voice-analyser)
 > Live audio processing — pitch, tone & sentiment analysis in real time.
 > **Stack:** Python · WebAudio · NumPy
 
-### 🔌 API Development
-> Clean, documented REST APIs powering the projects above.
-> **Stack:** Node.js · Express · Python · FastAPI
+### 🔌 [Auto QR-to-Print + Payment Integration](https://github.com/sourya2580/qr-print-payment-automation)
+> End-to-end automation: QR → Print → Payment. **[API 🔗](https://elitexgrok.xyz/ELITEX22.php)**
+> **Stack:** Node.js · Express · REST APIs · Payment Gateway
 
 ### 📱 Sketchware Projects
 > Native Android apps built from scratch in Sketchware.
